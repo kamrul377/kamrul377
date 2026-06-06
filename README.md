@@ -18,7 +18,7 @@ I am a passionate **Network and System Engineer** dedicated to building, maintai
 - **Core Networking:** Cisco iOS, Juniper Junos, BGP, OSPF, VLANs, DHCP/DNS Server Management
 - **Automation & Scripting:** Python, Ansible, Netmiko
 - **DevOps & SysAdmin:** Linux (Ubuntu/CentOS), Docker, Server Maintenance
-- **Web Development:** React, Vite, TypeScript, HTML5/CSS3
+- **Web Development:** React, Vite, TypeScript, HTML5/CSS3, Next js, MySql, Node js, MongoDB, Tailwind CSS
 
 ---
 
